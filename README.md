@@ -5,7 +5,7 @@ I'm a Frontend Developer passionate about creating responsive and engaging desig
 ## ⚡ A Few Quick Facts
 
 - 🚀 I’m a dedicated Frontend Developer.
-- 🌱 Always learning—about life, tech & love.
+- 🌱 Always learning - about life, tech & love.
 - 💻 Most of my projects are available here on GitHub.
 - 💬 I enjoy designing for the web and connecting with people around the world.
 
